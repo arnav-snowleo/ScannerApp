@@ -1,6 +1,18 @@
 # ScannerApp
 A Scanner App with on the fly image editing and image scanning, pdf generating and sharing features.
 
+>Installation:
+
+Android Studio offers a complete, integrated IDE experience for Flutter.
+
+Android Studio, version 3.0 or later
+Alternatively, you can also use IntelliJ:
+
+IntelliJ IDEA Community, version 2017.1 or later
+IntelliJ IDEA Ultimate, version 2017.1 or later
+ 
+I prefer Android Studio, You are free to use any Text Editor of your choice!!
+
 >Configuration :
 
 You can build apps with Flutter using any text editor combined with command-line.
@@ -11,6 +23,12 @@ This makes the job of a developer easy while writing code and while debugging.
 >What Next?
 Click Yes when prompted to install the Dart plugin.
 Because Dart is the Language which we will use to write the code of the  App.
+
+>Next?
+
+Yippe, We are done with the installation and Configuration part, Now have fun coding your first Flutter App.
+
+Trust Me, You will have real Fun coding making Flutter Apps.
 
 
 >Features:
@@ -43,3 +61,7 @@ Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm
 
 >The Software is not Open Sourced.
 
+> What makes our App Special?
+
+Till date there has been plenty of camscanner apps replica been made., but none of them are built with Flutter and most of the native Android Apps use the Open Sourced ScanLibrary which has all the functonalities in them. Which makes it super easy to build a camscanner App in Java. But beacuse Flutter, has no such Libraries as it was released 
+on May 2017, no such article , posts or video tutorials are there yet!!
