@@ -21,6 +21,7 @@ Editor plugins provide us with code completion, syntax highlighting, widget edit
 This makes the job of a developer easy while writing code and while debugging.
 
 >What Next?
+
 Click Yes when prompted to install the Dart plugin.
 Because Dart is the Language which we will use to write the code of the  App.
 
@@ -59,9 +60,11 @@ Minor bug which is causing the code to break at one point and the generated pdf 
 Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm IST
 
 
->The Software is not Open Sourced.
 
 > What makes our App Special?
 
 Till date there has been plenty of camscanner apps replica been made., but none of them are built with Flutter and most of the native Android Apps use the Open Sourced ScanLibrary which has all the functonalities in them. Which makes it super easy to build a camscanner App in Java. But beacuse Flutter, has no such Libraries as it was released 
 on May 2017, no such article , posts or video tutorials are there yet!!
+
+
+>The Software is not Open Sourced.
