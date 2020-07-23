@@ -35,18 +35,25 @@ Trust Me, You will have real Fun building Flutter Apps.
 >Features:
 
 Built with Dart on top of Google's Flutter Framework.
+
 Cross- Platform
+
 No external SDKs used.
+
 Entire functionality coded by us.
+
 Beautiful UI with pleasing UX.
 
 
 >Milestones Achieved in this App: (as of 23rd July 10:00 pm IST):
 
 Document Scanning feature. 
+
 after Cropping, a Screenshot pops up to decide whether to go with this pic or take another snapshot.
 Use Scanning Filters.
+
 Generate PDF.
+
 Share PDF.
 
 >Vulnerabilities and Breaches:
