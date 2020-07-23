@@ -2,6 +2,7 @@
 A Scanner App with on the fly image editing and image scanning, pdf generating and sharing features.
 
 >Configuration :
+
 You can build apps with Flutter using any text editor combined with command-line.
 We need to add Flutter Plugins to Android Stdio/ VS Code to build Apps in Flutter.
 Editor plugins provide us with code completion, syntax highlighting, widget editing assists, run & debug support, and more.
