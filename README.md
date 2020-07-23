@@ -27,7 +27,7 @@ Because Dart is the Language which we will use to write the code of the  App.
 
 >Next?
 
-Yipee!! We are done with the installation and Configuration part, Now have fun coding your first Flutter App.
+Yipee!! We are done with the installation and Configuration part, Now have fun building your first Flutter App.
 
 Trust Me, You will have real Fun building Flutter Apps.
 
@@ -50,6 +50,7 @@ Beautiful UI with pleasing UX.
 Document Scanning feature. 
 
 after Cropping, a Screenshot pops up to decide whether to go with this pic or take another snapshot.
+
 Use Scanning Filters.
 
 Generate PDF.
