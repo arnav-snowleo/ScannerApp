@@ -53,10 +53,12 @@ Share PDF.
 None
 
 >Bugs:
+
 Minor bug which is causing the code to break at one point and the generated pdf file is not being displayed in the generated files section which has to be fixed.
 
 
 >Yet to be Added:
+
 Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm IST
 
 
