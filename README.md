@@ -29,7 +29,7 @@ Because Dart is the Language which we will use to write the code of the  App.
 
 Yipee!! We are done with the installation and Configuration part, Now have fun coding your first Flutter App.
 
-Trust Me, You will have real Fun coding making Flutter Apps.
+Trust Me, You will have real Fun building Flutter Apps.
 
 
 >Features:
