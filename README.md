@@ -62,8 +62,8 @@ None
 
 >Bugs:
 
-Minor bug which is causing the code to break at one point and the generated pdf file is not being displayed in the generated files section which has to be fixed.
-
+Minor Bug causing code breaking Fixed
+So, No bugs now
 
 >Yet to be Added:
 
