@@ -76,27 +76,4 @@ Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm
 Till date there has been plenty of camscanner apps replica been made., but none of them are built with Flutter and most of the native Android Apps use the Open Sourced ScanLibrary which has all the functonalities in them. Which makes it super easy to build a camscanner App in Java. But beacuse Flutter, has no such Libraries as it was released 
 on May 2017, no such article , posts or video tutorials are there yet!!
 
-# Sample Videos in Zip Files:
-
-A Scanner App which converts camera or device images into pdf and allows sharing option to other users via whatsapp , email and other social media platforms.
-
-It also has a QR Scanner and Barcode Scanner feature and the Barcode Scan allows users to check if the product is an Indian Product or not.
-
-
-
-Barcode Scanner Preview:
-Video in the Zip File:
-
-[QR and Barcode.zip](https://github.com/arnav-snowleo/scanner_app/files/4940231/QR.and.Barcode.zip)
-
-
-Text Detection using OCR :
-Video in the Zip File:
-
-[ocr video.zip](https://github.com/arnav-snowleo/scanner_app/files/4946307/ocr.video.zip)
-
-Video depecting the Milestones we have achieved till date:
-
-
->The Software is not Open Sourced.
 
