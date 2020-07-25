@@ -67,7 +67,7 @@ So, No bugs now
 
 >Yet to be Added:
 
-Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm IST
+Integration of OCR, Barcode and QR scanner has to be done. by 26th July 10:00 pm IST
 
 
 
