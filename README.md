@@ -77,6 +77,7 @@ Till date there has been plenty of camscanner apps replica been made., but none 
 on May 2017, no such article , posts or video tutorials are there yet!!
 
 So, this will be the first ever Flutter App built with Dart on top of Flutter Framework.
+
 Yay!!
 
 
