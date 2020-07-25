@@ -76,4 +76,7 @@ Integration of OCR, Barcode and QR scanner has to be done. by 25th July 10:00 pm
 Till date there has been plenty of camscanner apps replica been made., but none of them are built with Flutter and most of the native Android Apps use the Open Sourced ScanLibrary which has all the functonalities in them. Which makes it super easy to build a camscanner App in Java. But beacuse Flutter, has no such Libraries as it was released 
 on May 2017, no such article , posts or video tutorials are there yet!!
 
+So, this will be the first ever Flutter App built with Dart on top of Flutter Framework.
+Yay!!
+
 
